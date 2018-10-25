@@ -1,0 +1,19 @@
+{
+  "name": "amfy-orm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amfyWebService/AMFY-ORM.git"
+  },
+  "author": "AMFY Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amfyWebService/AMFY-ORM/issues"
+  },
+  "homepage": "https://github.com/amfyWebService/AMFY-ORM#readme"
+}
